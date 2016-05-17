@@ -41,4 +41,22 @@ a {
 	color: black;
 }
 
+img {
+    display: block;
+}
 
+#title {
+     background: gold;
+}
+
+#main {
+     background: green;
+}
+
+*
+div {
+    width: 500px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
